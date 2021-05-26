@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Telman Gadimov</h1>
 <h3 align="center">A passionate back-end developer from Azerbaijan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=telman03" alt="telman03" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gadimov6400210" target="blank"><img src="https://img.shields.io/twitter/follow/gadimov6400210?logo=twitter&style=for-the-badge" alt="gadimov6400210" /></a> </p>
-
 - 🔭 I’m currently working on **OOP in Python**
 
 - 🌱 I’m currently learning **Python**
