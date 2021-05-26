@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Telman Gadimov</h1>
-<h3 align="center">A passionate back-end developer from Azerbaijan</h3>
-
-- 🔭 I’m currently working on **OOP in Python**
-
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **any tech-related stuff**
-
-
-
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
@@ -19,15 +8,13 @@
   </a>
 </h1>
 
+- 🔭 I’m currently working on **OOP in Python**
+- 🌱 I’m currently learning **Flask**
+- 🤔 I’m looking for help with **any tech-related stuff**
+
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
 
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gadimov6400210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="gadimov6400210" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/telman-gadimov-0462ab20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="telman-gadimov-0462ab20b" height="30" width="40" /></a>
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
