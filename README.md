@@ -8,6 +8,14 @@
   </a>
 </h1>
 
+<br/>
+<br/>
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+</a>
+
+
 - 🔭 I’m currently working on **OOP in Python**
 - 🌱 I’m currently learning **Flask**
 - 🤔 I’m looking for help with **any tech-related stuff**
@@ -15,10 +23,11 @@
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a>
   
   
 <h3 align="left">Languages and Tools:</h3>
