@@ -17,7 +17,7 @@
 
 
 - 🔭 I’m currently working on **OOP in Python**
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Django**
 - 🤔 I’m looking for help with **any tech-related stuff**
 
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
