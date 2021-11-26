@@ -34,4 +34,4 @@
 <br/>
 <br/>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=telman03&show_icons=true&theme=tokyo&locale=en" alt="telman" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telman03&" alt="telman03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=telman03&show_icons=true&theme=tokyo&locale=en" width="50%" alt="telman" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telman03&" width="50%" alt="telman03" /></p>
