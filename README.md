@@ -20,21 +20,9 @@
 - 🌱 I’m currently learning **Django**
 - 🤔 I’m looking for help with **any tech-related stuff**
 
-
-
 <br/>
 <br/>
 
-<br/>
-
-  
-
-<br/>
-<br/>
-<br/>
-<br/>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=telman03&show_icons=true&theme=tokyo&locale=en" width="50%" alt="telman"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telman03" width="50%" alt="telman"/>
 
 
