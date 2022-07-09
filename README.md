@@ -16,8 +16,8 @@
 </a>
 
 
-- 🔭 I’m currently working on **OOP in Python**
-- 🌱 I’m currently learning **Django**
+- 🔭 I’m currently working on **Java**
+- 🌱 I’m currently learning **Spring**
 - 🤔 I’m looking for help with **any tech-related stuff**
 
 <br/>
