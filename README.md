@@ -1,28 +1,21 @@
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+
+
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/telman-gadimov-0462ab20b/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  <a href="https://www.instagram.com/t_gadimov03/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-</h1>
-
+ 
+  <a href="https://www.facebook.com/telman.gadimov.9" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>
 <br/>
-<br/>
-
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a>
-
-
-- 🔭 I’m currently working on **Java**
-- 🌱 I’m currently learning **Spring**
-- 🤔 I’m looking for help with **any tech-related stuff**
-
-<br/>
-<br/>
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telman03" width="50%" alt="telman"/>
-
 
